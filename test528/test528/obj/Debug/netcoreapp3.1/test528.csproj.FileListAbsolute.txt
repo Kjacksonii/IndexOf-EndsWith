@@ -1,0 +1,12 @@
+/Users/kevinjacksonii/Projects/test528/test528/bin/Debug/netcoreapp3.1/test528.deps.json
+/Users/kevinjacksonii/Projects/test528/test528/bin/Debug/netcoreapp3.1/test528.runtimeconfig.json
+/Users/kevinjacksonii/Projects/test528/test528/bin/Debug/netcoreapp3.1/test528.runtimeconfig.dev.json
+/Users/kevinjacksonii/Projects/test528/test528/bin/Debug/netcoreapp3.1/test528.dll
+/Users/kevinjacksonii/Projects/test528/test528/bin/Debug/netcoreapp3.1/test528.pdb
+/Users/kevinjacksonii/Projects/test528/test528/obj/Debug/netcoreapp3.1/test528.csprojAssemblyReference.cache
+/Users/kevinjacksonii/Projects/test528/test528/obj/Debug/netcoreapp3.1/test528.AssemblyInfoInputs.cache
+/Users/kevinjacksonii/Projects/test528/test528/obj/Debug/netcoreapp3.1/test528.AssemblyInfo.cs
+/Users/kevinjacksonii/Projects/test528/test528/obj/Debug/netcoreapp3.1/test528.csproj.CoreCompileInputs.cache
+/Users/kevinjacksonii/Projects/test528/test528/obj/Debug/netcoreapp3.1/test528.dll
+/Users/kevinjacksonii/Projects/test528/test528/obj/Debug/netcoreapp3.1/test528.pdb
+/Users/kevinjacksonii/Projects/test528/test528/obj/Debug/netcoreapp3.1/test528.genruntimeconfig.cache
